@@ -1,4 +1,4 @@
-<?php
+ <?php
 function srednia($numbers) {
     return array_sum($numbers) / count($numbers);
 }
@@ -16,4 +16,8 @@ function srednia_wazona($numbers, $weights) {
 }
 ?>
 
-Inne wagi 7=>8, 3=q>2
+<<<<<<< HEAD
+7=>8, 3=q>2
+=======
+7=>9, 3=>1 
+>>>>>>> konflikt
