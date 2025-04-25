@@ -15,3 +15,5 @@ function srednia_wazona($numbers, $weights) {
     return $sum / $weight_sum;
 }
 ?>
+
+Inne wagi 7=>8, 3=q>2
